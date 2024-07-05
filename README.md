@@ -16,7 +16,7 @@
 - Skills: 
     * Mathematical statistics
     * Data preprocessing and Data analysis
-    * 
+    * Data Science
 ### ⚡️ В настоящее время ⚡️
 - Работаю экспертом по клиентскому опыту в Компании OOO "COSCOM" ТМ Ucell
 
