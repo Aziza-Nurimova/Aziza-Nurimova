@@ -22,7 +22,7 @@
 
 ### ⚡️ Предыдущая должность ⚡️
 -  Эксперт по клиентскому опыту в Компании OOO "COSCOM" ТМ Ucell:
-  - :chart_with_upwards_trend: анализ клиентсокго опыта
+  - :chart_with_upwards_trend: анализ и отчетность по клиентсокому опыту
   - :chart_with_upwards_trend: метрики NPS и CSI
   - :incoming_envelope: обращения CRM и обратная связь.
 
