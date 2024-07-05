@@ -12,7 +12,7 @@
 * Кликни [сюда](https://github.com/Aziza-Nurimova?tab=repositories) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, SQL
+
 - Skills: 
     * Mathematical statistics
     * Data preprocessing and Data analysis
